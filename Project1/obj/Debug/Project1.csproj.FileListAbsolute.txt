@@ -1,0 +1,14 @@
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\Project1.exe
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\Project1.pdb
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\AWSSDK.Core.dll
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\AWSSDK.S3.dll
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\AWSSDK.Core.pdb
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\AWSSDK.Core.xml
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\AWSSDK.S3.pdb
+D:\C#\New folder\Project1Solution\Project1\bin\Debug\AWSSDK.S3.xml
+D:\C#\New folder\Project1Solution\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\C#\New folder\Project1Solution\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+D:\C#\New folder\Project1Solution\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\C#\New folder\Project1Solution\Project1\obj\Debug\Project1.csproj.CopyComplete
+D:\C#\New folder\Project1Solution\Project1\obj\Debug\Project1.exe
+D:\C#\New folder\Project1Solution\Project1\obj\Debug\Project1.pdb
