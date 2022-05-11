@@ -1,0 +1,27 @@
+
+{
+    "Information" : [
+        "This file provides default values for the deployment wizard inside Visual Studio and the AWS Lambda commands added to the .NET Core CLI.",
+        "To learn more about the Lambda commands with the .NET Core CLI execute the following command at the command line in the project root directory.",
+        "dotnet lambda help",
+        "All the command line options for the Lambda command can be specified in this file."
+    ],
+    "profile"     : "default",
+    "region"      : "us-east-1",
+    "configuration" : "Release",
+    "function-runtime" : "dotnet6",
+    "function-memory-size" : 256,
+    "function-timeout"     : 30,
+    "function-handler"     : "Project1Lambda::Project1Lambda.Function::FunctionHandler",
+    "framework"            : "net6.0",
+    "function-name"        : "Project1-Process-Bucket-Put",
+    "function-description" : "",
+    "package-type"         : "Zip",
+    "function-role"        : "arn:aws:iam::440725847939:role/LabRole",
+    "function-architecture" : "x86_64",
+    "tracing-mode"          : "PassThrough",
+    "environment-variables" : "\"AWS_RDS_PASSWORD\"=\"cs455pass\";\"AWS_RDS_DBNAME\"=\"postgres\";\"AWS_RDS_USERNAME\"=\"postgres\";\"AWS_RDS_ENDPOINT\"=\"project-1-db-instance.cml4ozjvhxgg.us-east-1.rds.amazonaws.com\"",
+    "image-tag"             : "",
+    "function-subnets"      : "subnet-0fb6ead0e34ddc688,subnet-0335cdf7806288909,subnet-050b70e31b54c4b9d,subnet-05f0fe6eadecefc5b,subnet-01550c4f6cdc5c6c8,subnet-03017047937469597",
+    "function-security-groups" : "sg-073655896c8f270e9"
+}

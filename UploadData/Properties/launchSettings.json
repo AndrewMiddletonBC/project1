@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "UploadData": {
+      "commandName": "Project",
+      "commandLineArgs": "TestFiles\\site1_correction.xml xml",
+      "workingDirectory": "D:\\Programming\\WorkspaceCS455\\Project1"
+    }
+  }
+}
